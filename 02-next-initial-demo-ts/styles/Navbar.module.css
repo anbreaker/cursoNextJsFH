@@ -1,0 +1,13 @@
+.menu-item {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 1rem;
+}
+
+.menu-item span {
+  font-size: 1.5rem;
+}
+
+.menu-item span:hover {
+  color: rgb(0, 112, 243, 0.5);
+}
